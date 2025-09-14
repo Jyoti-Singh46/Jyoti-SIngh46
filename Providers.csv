@@ -1,0 +1,101 @@
+Provider_ID,Provider_Name,Specialty,Location_City,Location_State,Network_Status,Avg_Cost_Per_Visit
+1,Provider_1,Radiology,Los Angeles,CA,In-Network,419.40
+2,Provider_2,Radiology,Phoenix,AZ,Out-of-Network,333.26
+3,Provider_3,Radiology,Los Angeles,CA,In-Network,391.62
+4,Provider_4,Pediatrics,Dallas,TX,Out-of-Network,140.77
+5,Provider_5,Radiology,Los Angeles,CA,Out-of-Network,435.75
+6,Provider_6,Pediatrics,Los Angeles,CA,In-Network,183.38
+7,Provider_7,Primary Care,New York,NY,In-Network,88.48
+8,Provider_8,Pediatrics,Los Angeles,CA,In-Network,141.27
+9,Provider_9,Cardiology,Los Angeles,CA,Out-of-Network,344.34
+10,Provider_10,Orthopedics,Los Angeles,CA,Out-of-Network,381.73
+11,Provider_11,Neurology,Dallas,TX,Out-of-Network,287.63
+12,Provider_12,Neurology,Los Angeles,CA,Out-of-Network,204.30
+13,Provider_13,Radiology,Atlanta,GA,In-Network,489.29
+14,Provider_14,Cardiology,New York,NY,In-Network,355.02
+15,Provider_15,Radiology,Los Angeles,CA,Out-of-Network,405.46
+16,Provider_16,Radiology,Atlanta,GA,Out-of-Network,439.79
+17,Provider_17,Radiology,New York,NY,In-Network,358.36
+18,Provider_18,Radiology,Atlanta,GA,Out-of-Network,418.90
+19,Provider_19,Dermatology,Los Angeles,CA,In-Network,137.57
+20,Provider_20,Radiology,Atlanta,GA,In-Network,356.74
+21,Provider_21,Primary Care,Chicago,IL,Out-of-Network,175.75
+22,Provider_22,Radiology,Los Angeles,CA,In-Network,360.35
+23,Provider_23,Radiology,Phoenix,AZ,Out-of-Network,320.29
+24,Provider_24,Oncology,Phoenix,AZ,In-Network,496.42
+25,Provider_25,Oncology,New York,NY,In-Network,300.67
+26,Provider_26,Dermatology,Los Angeles,CA,Out-of-Network,171.56
+27,Provider_27,Radiology,Los Angeles,CA,Out-of-Network,485.91
+28,Provider_28,Radiology,New York,NY,Out-of-Network,433.02
+29,Provider_29,Dermatology,New York,NY,Out-of-Network,207.57
+30,Provider_30,Neurology,Los Angeles,CA,In-Network,268.47
+31,Provider_31,Dermatology,Los Angeles,CA,In-Network,141.17
+32,Provider_32,Orthopedics,Los Angeles,CA,Out-of-Network,446.67
+33,Provider_33,Radiology,Dallas,TX,Out-of-Network,444.39
+34,Provider_34,Pediatrics,Phoenix,AZ,Out-of-Network,170.37
+35,Provider_35,Neurology,Los Angeles,CA,Out-of-Network,215.94
+36,Provider_36,Radiology,New York,NY,In-Network,483.26
+37,Provider_37,Dermatology,Los Angeles,CA,Out-of-Network,195.77
+38,Provider_38,Radiology,Dallas,TX,Out-of-Network,454.29
+39,Provider_39,Dermatology,Chicago,IL,In-Network,131.12
+40,Provider_40,Oncology,New York,NY,In-Network,409.66
+41,Provider_41,Orthopedics,Los Angeles,CA,In-Network,372.88
+42,Provider_42,Orthopedics,Dallas,TX,In-Network,372.12
+43,Provider_43,Pediatrics,Atlanta,GA,In-Network,181.99
+44,Provider_44,Dermatology,Los Angeles,CA,In-Network,204.23
+45,Provider_45,Orthopedics,Phoenix,AZ,In-Network,329.12
+46,Provider_46,Oncology,Atlanta,GA,In-Network,555.96
+47,Provider_47,Radiology,Chicago,IL,Out-of-Network,433.95
+48,Provider_48,Radiology,New York,NY,In-Network,367.44
+49,Provider_49,Cardiology,Los Angeles,CA,Out-of-Network,482.81
+50,Provider_50,Radiology,Los Angeles,CA,Out-of-Network,394.41
+51,Provider_51,Radiology,Los Angeles,CA,Out-of-Network,347.74
+52,Provider_52,Radiology,Los Angeles,CA,Out-of-Network,349.16
+53,Provider_53,Pediatrics,Phoenix,AZ,Out-of-Network,108.64
+54,Provider_54,Orthopedics,Los Angeles,CA,Out-of-Network,408.36
+55,Provider_55,Radiology,New York,NY,Out-of-Network,476.97
+56,Provider_56,Radiology,Phoenix,AZ,Out-of-Network,333.92
+57,Provider_57,Pediatrics,Los Angeles,CA,Out-of-Network,134.04
+58,Provider_58,Radiology,New York,NY,Out-of-Network,424.29
+59,Provider_59,Cardiology,New York,NY,In-Network,345.59
+60,Provider_60,Orthopedics,Atlanta,GA,Out-of-Network,403.09
+61,Provider_61,Cardiology,New York,NY,In-Network,334.63
+62,Provider_62,Orthopedics,Dallas,TX,In-Network,253.90
+63,Provider_63,Dermatology,Dallas,TX,Out-of-Network,247.35
+64,Provider_64,Oncology,Los Angeles,CA,Out-of-Network,561.73
+65,Provider_65,Neurology,Phoenix,AZ,In-Network,367.16
+66,Provider_66,Pediatrics,Chicago,IL,In-Network,159.20
+67,Provider_67,Radiology,Los Angeles,CA,Out-of-Network,465.25
+68,Provider_68,Orthopedics,Los Angeles,CA,In-Network,292.86
+69,Provider_69,Radiology,New York,NY,Out-of-Network,353.98
+70,Provider_70,Radiology,Phoenix,AZ,In-Network,474.83
+71,Provider_71,Oncology,Los Angeles,CA,In-Network,482.93
+72,Provider_72,Cardiology,Phoenix,AZ,In-Network,352.59
+73,Provider_73,Radiology,New York,NY,In-Network,349.34
+74,Provider_74,Radiology,Atlanta,GA,Out-of-Network,379.00
+75,Provider_75,Radiology,Los Angeles,CA,In-Network,461.06
+76,Provider_76,Oncology,Dallas,TX,Out-of-Network,372.47
+77,Provider_77,Radiology,Chicago,IL,In-Network,450.29
+78,Provider_78,Radiology,Dallas,TX,In-Network,428.96
+79,Provider_79,Oncology,Los Angeles,CA,In-Network,519.83
+80,Provider_80,Primary Care,New York,NY,In-Network,156.50
+81,Provider_81,Orthopedics,Los Angeles,CA,Out-of-Network,321.73
+82,Provider_82,Oncology,Chicago,IL,In-Network,522.06
+83,Provider_83,Radiology,Dallas,TX,In-Network,456.10
+84,Provider_84,Pediatrics,Los Angeles,CA,Out-of-Network,196.93
+85,Provider_85,Primary Care,Chicago,IL,In-Network,80.20
+86,Provider_86,Radiology,Los Angeles,CA,In-Network,438.03
+87,Provider_87,Radiology,New York,NY,In-Network,332.36
+88,Provider_88,Pediatrics,Los Angeles,CA,Out-of-Network,156.31
+89,Provider_89,Dermatology,Los Angeles,CA,In-Network,220.71
+90,Provider_90,Primary Care,New York,NY,In-Network,174.96
+91,Provider_91,Dermatology,Chicago,IL,In-Network,159.69
+92,Provider_92,Cardiology,Los Angeles,CA,Out-of-Network,255.93
+93,Provider_93,Radiology,Los Angeles,CA,Out-of-Network,488.24
+94,Provider_94,Dermatology,New York,NY,In-Network,140.58
+95,Provider_95,Cardiology,Chicago,IL,Out-of-Network,471.37
+96,Provider_96,Radiology,Los Angeles,CA,In-Network,420.70
+97,Provider_97,Neurology,Los Angeles,CA,Out-of-Network,242.16
+98,Provider_98,Radiology,Los Angeles,CA,In-Network,393.37
+99,Provider_99,Radiology,Los Angeles,CA,In-Network,384.46
+100,Provider_100,Radiology,Los Angeles,CA,In-Network,479.78
